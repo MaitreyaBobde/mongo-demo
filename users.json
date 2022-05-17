@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Akhil",
+    "dateOfBirth": "2001-10-05T14:48:00.000Z",
+    "address": {
+      "hno": 104,
+      "street": "Nagarkat road",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "occupation": "Engineer",
+    "company": "Reliance Jio"
+  },
+  {
+    "name": "Rohit",
+    "dateOfBirth": "1988-10-05T14:48:00.000Z",
+    "address": { "hno": "37b", "city": "Kolkata", "state": "West bengal" },
+    "occupation": "Doctor",
+    "company": "Jipmer"
+  },
+  {
+    "name": "Shanmuk",
+    "dateOfBirth": "2001-10-05T14:48:00.000Z",
+    "address": { "hno": 104, "street": "Tech Market", "state": "Haryana" },
+    "occupation": "Software Engineer",
+    "company": "Google inc"
+  }
+]
